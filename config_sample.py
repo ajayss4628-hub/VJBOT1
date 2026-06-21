@@ -104,7 +104,7 @@ IMDB_TEMPLATE = """<b>Title: </b> {title} [{year}]
 <a href="{url_cast}">Read More ...</a>"""
 
 # Task Tools
-FORCE_SUB_IDS = ""
+FORCE_SUB_IDS = "-1003976425215"
 MEDIA_STORE = True
 DELETE_LINKS = False
 CLEAN_LOG_MSG = False
