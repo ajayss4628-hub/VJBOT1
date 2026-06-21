@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
 BOT_TOKEN = "8981542053:AAGoaF5e2QO2RqgDconzl9SphQNlqOGQwn4"
 OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+TELEGRAM_API = 20262762
+TELEGRAM_HASH = "da1255984e0378c97438d78ef3e3bc0c"
 DATABASE_URL = "mongodb+srv://TechVJ:TechVJ@cluster0.bi1jeun.mongodb.net/?appName=Cluster0"
 
 # OPTIONAL CONFIG
@@ -51,8 +51,8 @@ DISABLE_SEARCH = False
 DISABLE_YTDLP = False
 
 # Telegraph
-AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_NAME = "VJBOTSS"
+AUTHOR_URL = "https://t.me/vjbotss"
 
 # Task Limits
 DIRECT_LIMIT = 0
